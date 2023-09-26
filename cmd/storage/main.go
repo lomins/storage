@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/lomins/storage/internal/storage"
+	"github.com/lomins/storage/v2/internal/storage"
 )
 
 func main() {
